@@ -1,6 +1,6 @@
 # Wine Quality Multiclass Classification
 
-End-to-end machine learning pipeline for multiclass classification on chemical properties of wine, evaluating the impact of multicollinearity and feature selection on model generalization.
+Machine learning pipeline for multiclass classification on chemical properties of wine, evaluating the impact of multicollinearity and feature selection on model generalization.
 
 The project explores whether removing highly correlated features improves or degrades cross-validation and test performance across multiple tree-based and linear classifiers.
 
