@@ -15,7 +15,6 @@ The project explores whether removing highly correlated features improves or deg
 
 - `src/`: Python script with data preprocessing, model training, cross-validation routines, and evaluation metrics.
 - `data/`: Train and test datasets (`wine_train.xlsx`, `wine_test.xlsx`).
-- `results/`: Output metrics (`.csv`) and evaluation figures (heatmaps, tuning sensitivity curves, confusion matrices).
 - `report/`: Technical report summarizing experimental setup, ablation studies, and discussion of results.
 
 
